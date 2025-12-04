@@ -1,8 +1,9 @@
+command = /opt/homebrew/bin/nu
 background = #000000
-background-opacity = 0.85
-background-blur-radius = 20
+background-opacity = 1
+# background-blur-radius = 20
 
-font-family = Jetbrains Mono
+font-family = Ioskeley Mono
 font-size = 14
 font-thicken = true
 font-thicken-strength = 200
@@ -27,4 +28,4 @@ auto-update-channel = stable
 shell-integration-features = no-cursor 
 copy-on-select = clipboard
 
-config-file = themes/rosepine
+theme = everforest-dark
